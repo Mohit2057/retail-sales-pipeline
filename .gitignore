@@ -1,0 +1,22 @@
+# Python virtual environment
+venv/
+.venv/
+
+# Python cache
+__pycache__/
+*.pyc
+
+# Environment variables / secrets
+.env
+
+# Logs
+*.log
+
+# Large source dataset
+data/raw/online_retail_II.csv
+
+# Processed output files
+data/processed/
+
+# System files
+.DS_Store
